@@ -1,0 +1,7 @@
+WIFI_SSID = 'TN_24GHz_5369BB'
+WIFI_PASS = '1ABFDB4675'
+
+UBIDOTS_TOKEN = 'BBFF-bIj1tpoStc2wNOb6OlZknn4M15OQuZ' # Not API-token
+UBIDOTS_MQTT_URL = 'industrial.api.ubidots.com'
+UBIDOTS_MQTT_PORT = 1883
+UBIDOTS_MQTT_TOPIC = '/v1.6/devices/'
